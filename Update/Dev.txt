@@ -1,0 +1,122 @@
+Device Number: 10
+Application Number: 2
+Task Number: 8
+
+Devices task sets:
+Device1: 6,7,1,2
+Device2: 3,8,2
+Device3: 8,4,6
+Device4: 1,2,3,8
+Device5: 7,5,8
+Device6: 8,4,2,3,6
+Device7: 1,8,6,5,7
+Device8: 5,1,7,2,8
+Device9: 6,2,5,8,3
+Device10: 1,8,2,3,5
+Device11: 8,5,3,4
+Device12: 8,3,7,1
+Device13: 5,3,6
+Device14: 4,2,5
+Device15: 1,5,6
+Device16: 2,5,1,7
+Device17: 6,3,8,7
+Device18: 7,3,6
+Device19: 2,5,4,7
+Device20: 3,7,8
+Device21: 8,2,4
+Device22: 4,2,8,1
+Device23: 3,7,8,2
+Device24: 8,1,6,7
+Device25: 5,1,3,8,6
+Device26: 2,1,4
+Device27: 3,4,7,1,2
+Device28: 5,1,4,8
+Device29: 3,1,8,6,7
+Device30: 8,2,5,6,4
+Device31: 6,5,8,7
+Device32: 2,5,4,7,1
+Device33: 6,4,8,5,1
+Device34: 2,8,7,3
+Device35: 8,1,5
+Device36: 2,8,7
+Device37: 7,8,3,2,6
+Device38: 8,5,4
+Device39: 2,7,3,1,5
+Device40: 3,4,7,6
+Device41: 2,3,6
+Device42: 4,5,3
+Device43: 8,6,4,2,3
+Device44: 2,4,1,5,8
+Device45: 2,5,6,7,3
+Device46: 5,4,8,6,7
+Device47: 7,6,5,1,8
+Device48: 5,4,3,7
+Device49: 3,5,6,8
+Device50: 2,5,1,3,6
+Device51: 6,8,7,2,5
+Device52: 6,3,5,7,4
+Device53: 8,1,2,4
+Device54: 4,3,2,5
+Device55: 4,5,3
+Device56: 4,7,2,6
+Device57: 8,1,7
+Device58: 3,4,1
+Device59: 2,3,7
+Device60: 4,2,3,6,7
+Device61: 3,4,1,2
+Device62: 2,5,6,1,3
+Device63: 3,1,5,4
+Device64: 7,1,4
+Device65: 6,7,2
+Device66: 2,5,8
+Device67: 7,8,5
+Device68: 7,5,2,4
+Device69: 5,1,7,2,8
+Device70: 5,8,6
+Device71: 6,7,2,4
+Device72: 2,1,5,6
+Device73: 2,3,5,7,1
+Device74: 7,4,6,3,2
+Device75: 1,4,2,6,8
+Device76: 7,5,4,1,6
+Device77: 8,1,2,3
+Device78: 6,1,7,5,4
+Device79: 8,2,3,5,1
+Device80: 2,1,8,3
+Device81: 1,4,3,5,8
+Device82: 7,5,6,2,3
+Device83: 5,7,6,3
+Device84: 4,8,1,5,3
+Device85: 5,2,3,8,7
+Device86: 7,5,8
+Device87: 5,1,4
+Device88: 1,4,2
+Device89: 1,2,7
+Device90: 8,2,4,7
+Device91: 7,3,6,5
+Device92: 4,7,6
+Device93: 1,6,7
+Device94: 4,1,7,8
+Device95: 6,3,2,7
+Device96: 5,6,8
+Device97: 2,6,8,5,7
+Device98: 6,3,2,1,8
+Device99: 7,4,2
+Device100: 3,2,5,1,7
+Device weights: 3,4,5,4,5,7,6,5,6,5
+
+Apps task sets:
+App1: 8,6,4,7,3. Inter-arrival time: 2h 57min 12.3699s. Start time:0h 12min 27.9041s. Time constraint: 0h 0min 06.474s. Finish time:0h 47min 54.3781s.
+App2: 7,3,8,5,4. Inter-arrival time: 6h 17min 19.6127s. Start time:0h 1min 9.49938s. Time constraint: 0h 0min 05.9225s. Finish time:1h 16min 37.4219s.
+
+Task times:
+Task 1: 0h 0min 4.72244s
+Task 2: 0h 0min 4.44321s
+Task 3: 0h 0min 4.15445s
+Task 4: 0h 0min 4.77742s
+Task 5: 0h 0min 5.44804s
+Task 6: 0h 0min 4.75898s
+Task 7: 0h 0min 4.01576s
+Task 8: 0h 0min 5.41642s
+Run no.10 finished.
+--------------------------------------------------------------
